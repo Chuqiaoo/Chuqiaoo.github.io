@@ -39,8 +39,6 @@ main:
       url: /proteomics/map
     - title: Society links
       url: /proteomics/society-links
-    - title: Job adverts
-      url: /proteomics/job-adverts
 
 
   - url: /bursaries-and-fellowships/
@@ -77,8 +75,7 @@ docs:
         url: /proteomics/map
       - title: Society Links
         url: /proteomics/society-links
-      - title: Job Adverts
-        url: /proteomics/job-adverts
+
 
   - title: Activities
     children:

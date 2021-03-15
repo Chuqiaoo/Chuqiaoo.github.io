@@ -11,7 +11,6 @@ sidebar:
 - Training workshops
 - Reduced registration fees at BSPR meetings
 - Travel bursaries
-  - [MJ Dunn Fellowship Awardee 2015]({{site.baseurl}}/bspr-bursaries-2015)
 - Young investigator awards
 - Lectureship scheme
 - Regional meetings - typically 2 per year
