@@ -16,7 +16,7 @@ To apply, please send a brief CV, a statement saying why you wish to attend the 
 
 
 
-- [BSPR 2021 Bursaries and Fellowships]({{site.baseurl}}/bspr-2021-bursaries-and-fellowships)[BSPR Report_for_EBI_Multiomic_Workshop_Sherwood_2021.docx](https://github.com/Chuqiaoo/Chuqiaoo.github.io/files/6177743/BSPR.Report_for_EBI_Multiomic_Workshop_Sherwood_2021.docx)
+- [BSPR 2021 Bursaries and Fellowships]({{site.baseurl}}/bspr-2021-bursaries-and-fellowships)
 - [BSPR 2020 Bursaries and Fellowships]({{site.baseurl}}/bspr-2020-bursaries-and-fellowships)
 - [BSPR 2019 Bursaries and Fellowships]({{site.baseurl}}/bspr-2019-bursaries-and-fellowships)
 - [BSPR 2018 Bursaries and Fellowships]({{site.baseurl}}/bspr-2018-bursaries-and-fellowships)
