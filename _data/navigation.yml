@@ -22,8 +22,8 @@ main:
       url: /events
     - title: BSPR Lecturer
       url: /news/bspr-lecturer/
-    - title: Membership Renewal 2017
-      url: /membership-renewal-2017/
+    - title: Membership Renewal
+      url: /membership-renewal/
     - title: BSPR Newsletters
       url: /newsletters/
 
@@ -82,8 +82,8 @@ docs:
       - title: BSPR Annual Meetings
         url: /events/
       - title: BSPR Lecturer
-        url: /bspr-lecturer/
-      - title: Membership Renewal 2017
-        url: /membership-renewal-2017/
+        url: /news/bspr-lecturer/
+      - title: Membership Renewal
+        url: /membership-renewal/
       - title: BSPR Newsletters
         url: /newsletters/

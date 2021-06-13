@@ -14,6 +14,10 @@ sidebar:
 
 <!--{% endfor %}-->
 
+### 2021
+
+- [BSPR 2021](https://www.bspr-interact.com/){:target="_blank"}
+
 ### 2019
 
 - [BSPR 2019]({{site.baseurl}}/event/bspr-meeting-2019)

@@ -8,4 +8,4 @@ sidebar:
 ---
 
 
-If you have any further questions, please don't hesitate to [contact us](mailto:webmaster@bspr.org).
+If you have any further questions, please don't hesitate to [contact us](mailto:secretary@bspr.org).

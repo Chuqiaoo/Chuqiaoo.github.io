@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Membership Renewal 2017"
-permalink: /membership-renewal-2017/
+title:  "Membership Renewal"
+permalink: /membership-renewal/
 comments: true
 sidebar:
   nav: "docs"

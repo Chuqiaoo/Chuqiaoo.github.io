@@ -7,24 +7,14 @@ sidebar:
   nav: "docs"
 ---
 
+The 2020 BSPR Lecturer is Professor is Claire Eyers from the Institute of Integrative Biology (IIB) at the University of Liverpool. She is also Director of the Centre for Proteome Research (CPR), and Research and is impact lead for the Institute of Integrative Biology and Deputy APVC for the Faculty of Health and Life Sciences. Her research employs biophysical and biochemical methodologies to elucidate the structure and function of post-translational modifications regulating cell signalling in health and disease. Her lab has developed LC-MS-based methods, including ion mobility MS to investigate the structure of proteins and the effects of PTM’s and ligand binding. Claire is offering the following lectures:
 
-We are pleased to have Professor Angus Lamond, who is a Professor of Biochemistry at the University of Dundee, as our BSPR Lecturer. Angus and his colleagues study pre-mRNA splicing, gene regulation and disease mechanisms in both human cells and model organisms. He has a long-standing interest in applying quantitative, mass spectrometry-based proteomics methods to characterise cell phenotypes and biological responses. Angus’ group have developed robust methods for studying cell proteomes at a multidimensional level, integrating data on protein isoform expression, subcellular localisation, post-translational modifications, protein complex formation and protein turnover. During the past 15 years Angus has also become fascinated by the challenges of analysing and integrating ‘Big Data’ generated in proteomics studies with cognate information from other omics, imaging and cellular studies. This has led Angus and his group to develop new computational tools, including the ‘Encyclopedia of Proteome Dynamics’ (EPD). This is an integrated analytics repository that provides a searchable, open access data sharing tool using advanced data science technologies.
+* The Expanding Landscape of Human Protein Phosphorylation
+* The Top to Bottom of phosphorylation-mediated signaling with mass spectrometry
 
-As the BSPR Lecturer, Angus is presenting lectures that build on his interests in applying multidimensional proteomics and data science technologies to characterise biological systems and disease mechanisms. The lectures focus on recent data from Angus and his colleagues and collaborators studying the large set of high quality human iPS cell lines developed by the HipSci consortium (see; www.hipsci.org). This study on iPS cells derived from both healthy human donors, as well as specific disease cohorts of donors with inherited disorders, allows the characterisation of human proteomes in health and disease. The data reveal natural variations in human proteomes between healthy individuals and how the proteomic landscape is remodelled by mutations causing disease. The proteome data also have been integrated with parallel transcriptome RNA expression data and exome sequence data from the same cell lines, providing a detailed picture of how gene expression is coordinated. All of these data have been integrated within the EPD database for convenient interactive exploration, providing an example of how large, complex datasets can be integrated and shared effectively with the community.
+Prof Eyers Inaugral lectures, hosted by the London Proteomics Discussion Group webinar and chaired by Prof. Kathryn Lilley on 7th August, 2020, entitled “The Expanding Landscape of Human Protein Phosphorylation” can be viewed on [youtube.](https://www.youtube.com/watch?v=D6UIdshbEc4&feature=youtu.be){:target="_blank"}
 
-Angus gave the first of his BSPR lectures at the University of St Andrews on April 24th, 2019. The lecture was entitled, “Genetic Analysis of Human iPS Cells; Generating Deep Proteomes & Navigating the Data Mountain”. His lectures so far are listed below. The lectures are designed to be accessible to a wide general audience and if you are interested in Angus presenting one of these lectures at your University while he is the BSPR Lecturer, please contact him at ‘ailamond@dundee.ac.uk'.
+To invite Prof Eyes to give a lecture, please email her: [ceyers@liverpool.ac.uk](mailto:ceyers@liverpool.ac.uk) and [Amanda.penney@liverpool.ac.uk](mailto:Amanda.penney@liverpool.ac.uk)
 
-**BSPR Lectures 2019**
 
-24th April -- University of St Andrews
-
-1st May -- University of Cambridge
-
-6th June -- Barts Cancer Institute, London
-
-1-3 July -- BSPR Annual Conference, Southampton
-
-**Future Lectures Scheduled include:**
-
-25-26th Sept -- SULSA Conference, Edinburgh
 
