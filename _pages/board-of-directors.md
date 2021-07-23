@@ -32,7 +32,8 @@ comments: true
 |CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
 | **Gina Eagle**| **Roman Fischer**|
 |SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Oxford <br>Nuffield department of Surgical Sciences<br> Oxford Blood Donor Centre, John Radcliffe Hospital <br> Oxford <br>OX3 9BQ<br> United Kingdom|
-
+| **Sara Hart**| |
+|Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom||
 
 ## Management Committee
 
@@ -44,7 +45,8 @@ comments: true
 |Syngenta <br> Jealott's Hill, Bracknell<br> RG40 6EY <br> United Kingdom|Biological Sciences <br>Life Sciences Building 85<br> University of Southampton <br>Highfield <br> Southampton <br>SO17 1BJ<br> United Kingdom|
 
 | **Kareena Adair**| **Matthias Trost**|
-|To be completed|Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
+|University of Liverpool<br>Centre for Proteome Research<br>Institute of Systems, Molecular and Integrative Biology <br> Crown Street, Liverpool <br> L693GE 
+<br> United Kingdom||Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
 
 
 
