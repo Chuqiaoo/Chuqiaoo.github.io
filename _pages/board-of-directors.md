@@ -44,8 +44,7 @@ comments: true
 | **Peter Kilby**| **Rob Ewing**|
 |Syngenta <br> Jealott's Hill, Bracknell<br> RG40 6EY <br> United Kingdom|Biological Sciences <br>Life Sciences Building 85<br> University of Southampton <br>Highfield <br> Southampton <br>SO17 1BJ<br> United Kingdom|
 | **Kareena Adair**| **Matthias Trost**|
-|University of Liverpool<br>Centre for Proteome Research<br>Institute of Systems, Molecular and Integrative Biology <br> Crown Street, Liverpool <br> L693GE 
-<br> United Kingdom|Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
+|University of Liverpool<br>Centre for Proteome Research<br>Institute of Systems, Molecular and Integrative Biology <br> Crown Street, Liverpool <br>L693GE<br> United Kingdom|Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
 
 
 
