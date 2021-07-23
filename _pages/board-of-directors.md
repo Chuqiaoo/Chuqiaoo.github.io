@@ -43,10 +43,9 @@ comments: true
 |European Bioinformatics Institute (EMBL-EBI)<br> Wellcome Genome Campus <br>Hinxton <br> Cambridgeshire <br>CB10 1SD <br>United Kingdom|Life Science Mass Spectrometry, UK and Ireland <br>Chromatography and Mass Spectrometry<br> Thermo Fisher Scientific <br>Stafford House, Boundary Way <br>Hemel Hempstead<br> HP2 7GE<br> United Kingdom|
 | **Peter Kilby**| **Rob Ewing**|
 |Syngenta <br> Jealott's Hill, Bracknell<br> RG40 6EY <br> United Kingdom|Biological Sciences <br>Life Sciences Building 85<br> University of Southampton <br>Highfield <br> Southampton <br>SO17 1BJ<br> United Kingdom|
-
 | **Kareena Adair**| **Matthias Trost**|
 |University of Liverpool<br>Centre for Proteome Research<br>Institute of Systems, Molecular and Integrative Biology <br> Crown Street, Liverpool <br> L693GE 
-<br> United Kingdom||Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
+<br> United Kingdom|Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
 
 
 
