@@ -32,7 +32,7 @@ comments: true
 |CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
 | **Gina Eagle**| **Roman Fischer**|
 |SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Oxford <br>Nuffield Department of Medicine<br> Target Discovery Institute <br> Roosevelt Drive <br>Oxford, OX3 9BQ<br> United Kingdom|
-| **Sara Hart**| |
+| **Sarah Hart**| |
 |Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom||
 
 ## Management Committee
