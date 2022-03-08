@@ -12,6 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -209,6 +210,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 #  - jekyll-twitter-plugin
 
 # mimic GitHub Pages with --safe
@@ -271,13 +273,11 @@ defaults:
       share: true
 #      related: true
 
-#custom by Chuqiao
-
-theme: minimal-mistakes-jekyll
 
 
-#plugins:
-#  - jekyll-remote-theme
 
 
-#remote_theme: benbalter/retlab
+
+
+
+
