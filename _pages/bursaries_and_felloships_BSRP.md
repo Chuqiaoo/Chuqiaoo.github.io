@@ -8,11 +8,35 @@ sidebar:
 ---
 
 
-**Bursaries and fellowships during COVID-19**
+<!-- Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences or workshops. During the COVID-19 pandemic, most face-to-face conferences have been canceled and several of them have moved them on-line. The BSPR has therefore decided to offer bursaries (up to £250) for students, technical staff, and post-docs to attend virtual proteomics-related conferences and workshops that have a registration fee. Only one bursary will be awarded per person each calendar year. -->
 
-Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences or workshops. During the COVID-19 pandemic, most face-to-face conferences have been canceled and several of them have moved them on-line. The BSPR has therefore decided to offer bursaries (up to £250) for students, technical staff, and post-docs to attend virtual proteomics-related conferences and workshops that have a registration fee. Only one bursary will be awarded per person each calendar year.
+<!-- To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (karin.barnouin@ucb.com). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages. -->
 
-To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (karin.barnouin@ucb.com). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
+The BSPR provides several bursaries and fellowships awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences, workshops, or local seminar series’. Only one bursary of each type will be awarded per person each calendar year.
+
+Please see the list of awards available for 2022 below:
+
+**MJ Dunn Fellowship**
+MJ Dunn Fellowship awards will be given to cover registration, accommodation and travel expenses for the BSPR 2022 conference. To apply, please send a brief CV together with a statement saying why you wish to attend the meeting, including an abstract of the work that you plan to present to Dr Karin Barnouin (Karin.Barnouin@ucb.com), Dr Sarah Hart (s.r.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk) no later than 1st May 2022. Applicants must be within six years of completing their Ph.D. and be paid-up members of the BSPR. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
+
+**Student and Support Staff Conference Bursaries**
+Students (MSc and Ph.D.) and support staff awarded a bursary will receive £250 to help cover meeting registration, accommodation and travel expenses for the BSPR annual meeting or another proteomics conference such as HUPO/EuPA etc..
+
+To apply, please send a brief CV, a statement saying why you wish to attend the meeting and an abstract of the work that you plan to present to Dr Karin Barnouin (Karin.Barnouin@ucb.com), Dr Sarah Hart (s.r.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk). 
+
+To apply for BSPR 2022 student bursary, please apply no later than Monday 1st May 2022. Students must be members of the BSPR to apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
+
+**Travel Bursary to Regional Meetings**
+To support student and technical staff with travel cost to their nearest local meetings e.g., London Proteomics Discussion group, London Biological Mass Spectrometry Discussion Group, Midlands's mass spectrometry group. £50 can be award once per successful applicant per year. To apply, please provide evidence they are travelling to their closest local meeting. Please apply at least two weeks prior to the meeting by emailing Dr Karin Barnouin (Karin.barnouic@ucb.com), Dr Sarah Hart (s.r.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk). A brief meeting report will be required for inclusion on the website.
+
+**European Summer School Travel Bursary 2022**
+One BSPR member will awarded a Travel award which will cover registration, accommodation and travel expenses for the 14th European Summer School (http://www.proteomic-basics.eu/) . To apply, please send a brief CV together with a statement saying why you wish to attend the course, including an abstract of the work that you plan to present to Dr Karin Barnouin (karin.barnouin@ucb.com), Dr Sarah Hart (s.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk) no later than 31 May 2022. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
+
+**John Timms Memorial Travel Bursary**
+This award can be made to any researcher (all career stages applicable) to attend a conference with a poster or presentation featuring proteomics research. Priority will be given to researchers presenting cancer-proteomics. The award can cover registration, travel and accommodation (other eligible expenses by prior agreement) up to £1000. This award will be made once per year, applicants just apply by 1st May by emailing Dr Karin Barnouin (karin.barnouin@ucb.com), Dr Sarah Hart (s.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk) with a 500 word proposal explaining how the conference would be of value and an abstract. After attendance, a meeting report is expected and, if applicable, BSPR should be acknowledged on funding slides/poster.
+
+
+
 
 
 
