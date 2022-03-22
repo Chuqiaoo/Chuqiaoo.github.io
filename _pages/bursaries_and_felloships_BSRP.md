@@ -14,6 +14,8 @@ sidebar:
 
 The BSPR provides several bursaries and fellowships awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences, workshops, or local seminar series’. Only one bursary of each type will be awarded per person each calendar year.
 
+In honour of Prof John Timms, the John Timms Mentoring Award regnoises the effort, time, and commitment to mentoring proteomics researchers with a medal and £1000 award.
+
 Please see the list of awards available for 2022 below:
 
 **MJ Dunn Fellowship**
@@ -35,6 +37,8 @@ One BSPR member will awarded a Travel award which will cover registration, accom
 **John Timms Memorial Travel Bursary**
 This award can be made to any researcher (all career stages applicable) to attend a conference with a poster or presentation featuring proteomics research. Priority will be given to researchers presenting cancer-proteomics. The award can cover registration, travel and accommodation (other eligible expenses by prior agreement) up to £1000. This award will be made once per year, applicants just apply by 1st May by emailing Dr Karin Barnouin (karin.barnouin@ucb.com), Dr Sarah Hart (s.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk) with a 500 word proposal explaining how the conference would be of value and an abstract. After attendance, a meeting report is expected and, if applicable, BSPR should be acknowledged on funding slides/poster.
 
+**John Timms Mentoring Award**
+This prestigious award has been created to recognise the effort, time, and commitment to mentoring proteomics researchers (e.g., early career, technical staff, colleagues).  It will be a personal lifetime award:  medal and £1000 for personal use. One cannot get renominated. Suggestions can be made by BSPR committee and members at any time. The nominations will be considered at the next selection committee meeting. The award will be presented at the following annual meeting. The deadline for this year is 1st May, 2022. The nomination must include a proposal explaining how the nominated scientist supported the wellbeing, development, of one or more people. Provide evidence of impact on mentees research, development, time, and commitment regardless of career stage. Max. 500 words. Nominators can also be at any career stage/position e.g., post-doc, core facility head and work in academia or industry. Nominators will receive recognition for putting forward a nomination.
 
 
 
