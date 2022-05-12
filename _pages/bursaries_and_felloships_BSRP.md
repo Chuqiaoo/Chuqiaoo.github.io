@@ -26,7 +26,7 @@ Students (MSc and Ph.D.) and support staff awarded a bursary will receive £250 
 
 To apply, please send a brief CV, a statement saying why you wish to attend the meeting and an abstract of the work that you plan to present to Dr Karin Barnouin (Karin.Barnouin@ucb.com), Dr Sarah Hart (s.r.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk). 
 
-To apply for BSPR 2022 student bursary, please apply no later than Monday 1st May 2022. Students must be members of the BSPR to apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
+To apply for BSPR 2022 student bursary, please apply no later than the abstract submission deadline. Students must be members of the BSPR to apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
 
 **Travel Bursary to Regional Meetings**
 To support student and technical staff with travel cost to their nearest local meetings e.g., London Proteomics Discussion group, London Biological Mass Spectrometry Discussion Group, Midlands's mass spectrometry group. £50 can be award once per successful applicant per year. To apply, please provide evidence they are travelling to their closest local meeting. Please apply at least two weeks prior to the meeting by emailing Dr Karin Barnouin (Karin.barnouic@ucb.com), Dr Sarah Hart (s.r.hart@keele.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk). A brief meeting report will be required for inclusion on the website.
