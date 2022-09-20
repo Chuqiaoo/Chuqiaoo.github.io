@@ -43,7 +43,7 @@ This prestigious award has been created to recognise the effort, time, and commi
 
 
 
-
+- [BSPR 2022 Bursaries and Fellowships]({{site.baseurl}}/bspr-2022-bursaries-and-fellowships)
 - [BSPR 2021 Bursaries and Fellowships]({{site.baseurl}}/bspr-2021-bursaries-and-fellowships)
 - [BSPR 2020 Bursaries and Fellowships]({{site.baseurl}}/bspr-2020-bursaries-and-fellowships)
 - [BSPR 2019 Bursaries and Fellowships]({{site.baseurl}}/bspr-2019-bursaries-and-fellowships)
