@@ -14,3 +14,4 @@ gem "rubyzip", ">= 1.2.2"
 gem "jemoji"
 
 gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.7"
