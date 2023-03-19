@@ -14,7 +14,7 @@ sidebar:
 
 The BSPR provides several bursaries and fellowships awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences, workshops, or local seminar series’. Only one bursary of each type will be awarded per person each calendar year.
 
-In honour of Prof John Timms, the John Timms Mentoring Award regnoises the effort, time, and commitment to mentoring proteomics researchers with a medal and £1000 award.
+In honour of Prof John Timms, the John Timms Mentoring Award recognises the effort, time, and commitment to mentoring proteomics researchers with a medal and £1000 award.
 
 Please see the list of awards available for 2023 below:
 
