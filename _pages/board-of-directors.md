@@ -20,7 +20,7 @@ comments: true
 |Treasurer|Secretary |
 |-------|--------|
 | **Andrew Pitt** | **Maike Langini** |
-| Manchester Institute of Biotechnology <br>Manchester University, 131 Princess Street<br>Manchester<br>M1 7DN<br>United Kingdom<br>treasurer@bspr.org |Medicines Discovery Catapult <br> Block 35G, Mereside Alderley Park, Alderley Edge <br> Macclesfield, Cheshire <br> SK10 4ZF <br>United Kingdom <br> secretary@bspr.org
+| Manchester Institute of Biotechnology <br>Manchester University, 131 Princess Street<br>Manchester<br>M1 7DN<br>United Kingdom<br>treasurer@bspr.org |Medicines Discovery Catapult <br> Block 35G, Mereside Alderley Park, Alderley Edge <br> Macclesfield, Cheshire <br> SK10 4ZF <br>United Kingdom <br> secretary@bspr.org |
 
 ## Elected members
 
