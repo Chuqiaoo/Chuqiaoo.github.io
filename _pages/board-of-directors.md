@@ -17,9 +17,6 @@ comments: true
 | **Rainer Cramer**  | **Kathryn Lilley** |
 | University of Reading <br> Department of Chemistry and the BioCentre<br>Whiteknights, PO Box 221<br>Reading<br>RG6 6AS<br>United Kingdom<br>president@bspr.org | University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom |
 
-| **Steve Pennington** | **Rainer Cramer** |
-| Conway Institute for Biomolecular and Biomedical  Research<br> University College Dublin, Belfield 4,<br>Dublin<br>D4<br>Ireland<br>president@bspr.org | University of Reading <br> Department of Chemistry and the BioCentre<br>Whiteknights, PO Box 221<br>Reading<br>RG6 6AS<br>United Kingdom<br> |
-
 |Treasurer|Secretary |
 |-------|--------|
 | **Andrew Pitt** | **Maike Langini** |
