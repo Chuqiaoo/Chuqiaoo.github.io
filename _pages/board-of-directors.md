@@ -23,15 +23,19 @@ comments: true
 | Manchester Institute of Biotechnology <br>Manchester University, 131 Princess Street<br>Manchester<br>M1 7DN<br>United Kingdom<br>treasurer@bspr.org |Medicines Discovery Catapult <br> Block 35G, Mereside Alderley Park, Alderley Edge <br> Macclesfield, Cheshire <br> SK10 4ZF <br>United Kingdom <br> secretary@bspr.org |
 
 ## Elected members
-
+|Member 1 | Member 2 |
 | **James Waddington** | **Harry Whitwell** |
 |Atturos Ltd. <br>c/o Conway Institute <br>University College Dublin <br>Belfield, Dublin<br> Ireland | Proteomics Platform Lead<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom |
+|Member 3 | Member 4 |
 | **Sadr ul Shaheed**| **Roz Jenkins**|
 |University of Oxford <br>Nuffield department of Surgical Sciences<br> Oxford Blood Donor Centre, John Radcliffe Hospital <br> Oxford <br>OX3 9BQ<br> United Kingdom|       University of Liverpool<br>Centre for Drug Safety Science<br>Department of Pharmacology and Therapeutics<br>Institute of Systems, Molecular and Integrative Biology<br>The Sherrington Building, Ashton Street<br>Liverpool L69 3GE<br>United Kingdom|
+|Member 5 | Member 6 |
 | **Sara Zanivan**| **Karin Barnouin**|
 |CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
+|Member 7 | Member 8 |
 | **Gina Eagle**| **Roman Fischer**|
 |SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Oxford <br>Nuffield Department of Medicine<br> Target Discovery Institute <br> Roosevelt Drive <br>Oxford, OX3 9BQ<br> United Kingdom|
+|Member 9 ||
 | **Sarah Hart**| |
 |Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom||
 
