@@ -38,7 +38,7 @@ comments: true
 ## Management Committee
 
 | **Steve Pennington**| **Paul Skipp**|
-|Conway Institute for Biomolecular and Biomedical Research<br> University College Dublin, Belfield 4,<br>Dublin<br>D4<br>Ireland<br>president@bspr.org|Centre for Proteomic Research<br> Life Sciences Building 85<br> University of Southampton <br> Highfield <br>Southampton<br>SO17 1BJ<br>United Kingdom|
+|Conway Institute for Biomolecular and Biomedical Research<br> University College Dublin, Belfield 4,<br>Dublin<br>D4<br>Ireland|Centre for Proteomic Research<br> Life Sciences Building 85<br> University of Southampton <br> Highfield <br>Southampton<br>SO17 1BJ<br>United Kingdom|
 | **Juan Antonio Vizcaino**| **Phil Green**|
 |European Bioinformatics Institute (EMBL-EBI)<br> Wellcome Genome Campus <br>Hinxton <br> Cambridgeshire <br>CB10 1SD <br>United Kingdom|Life Science Mass Spectrometry, UK and Ireland <br>Chromatography and Mass Spectrometry<br> Thermo Fisher Scientific <br>Stafford House, Boundary Way <br>Hemel Hempstead<br> HP2 7GE<br> United Kingdom|
 | **Peter Kilby**| **Rob Ewing**|
