@@ -14,6 +14,9 @@ comments: true
 
 |President | Vice-president |
 |-------|--------|
+| **Rainer Cramer**  | **Kathryn Lilley** |
+| University of Reading <br> Department of Chemistry and the BioCentre<br>Whiteknights, PO Box 221<br>Reading<br>RG6 6AS<br>United Kingdom<br>president@bspr.org | University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom |
+
 | **Steve Pennington** | **Rainer Cramer** |
 | Conway Institute for Biomolecular and Biomedical  Research<br> University College Dublin, Belfield 4,<br>Dublin<br>D4<br>Ireland<br>president@bspr.org | University of Reading <br> Department of Chemistry and the BioCentre<br>Whiteknights, PO Box 221<br>Reading<br>RG6 6AS<br>United Kingdom<br> |
 
@@ -37,8 +40,8 @@ comments: true
 
 ## Management Committee
 
-| **Kathryn Lilley**| **Paul Skipp**|
-|University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom|Centre for Proteomic Research<br> Life Sciences Building 85<br> University of Southampton <br> Highfield <br>Southampton<br>SO17 1BJ<br>United Kingdom|
+| **Steve Pennington**| **Paul Skipp**|
+|Conway Institute for Biomolecular and Biomedical Research<br> University College Dublin, Belfield 4,<br>Dublin<br>D4<br>Ireland<br>president@bspr.org|Centre for Proteomic Research<br> Life Sciences Building 85<br> University of Southampton <br> Highfield <br>Southampton<br>SO17 1BJ<br>United Kingdom|
 | **Juan Antonio Vizcaino**| **Phil Green**|
 |European Bioinformatics Institute (EMBL-EBI)<br> Wellcome Genome Campus <br>Hinxton <br> Cambridgeshire <br>CB10 1SD <br>United Kingdom|Life Science Mass Spectrometry, UK and Ireland <br>Chromatography and Mass Spectrometry<br> Thermo Fisher Scientific <br>Stafford House, Boundary Way <br>Hemel Hempstead<br> HP2 7GE<br> United Kingdom|
 | **Peter Kilby**| **Rob Ewing**|
