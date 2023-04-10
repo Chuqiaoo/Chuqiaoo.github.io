@@ -25,7 +25,7 @@ comments: true
 ## Elected members
 
 |Member 1 | Member 2 |
-|-------|--------|
+|||
 | **James Waddington** | **Harry Whitwell** |
 |Atturos Ltd. <br>c/o Conway Institute <br>University College Dublin <br>Belfield, Dublin<br> Ireland | Proteomics Platform Lead<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom |
 |Member 3 | Member 4 |
