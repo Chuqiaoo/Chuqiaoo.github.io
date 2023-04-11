@@ -49,7 +49,8 @@ comments: true
 | **Sarah Hart**| |
 |Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom||
 
-## Management Committee
+## Management Committee (MC)
+
 |MC Member | MC Member |
 |-------|--------|
 | **Steve Pennington**| **Paul Skipp**|
