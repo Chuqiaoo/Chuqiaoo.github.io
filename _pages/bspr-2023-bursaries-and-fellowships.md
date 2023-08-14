@@ -50,3 +50,13 @@ Novel Aspect
 A novel, unbiased and untargeted high-throughput MALDI-TOF MS phenotypic screening approach for identifying metabolites in NAFLD for drug discovery. 
 
 Conflict of Interest Disclosure All work was funded and completed as part of the scope of a PhD for Ruth Walker by Boehringer Ingelheim Pharma GmbH & Co. KG.
+
+##Olga Tereszkowska-Kaminska (University of Liverpool)
+I am honoured to have received the Student and Support Staff Conference bursary and would like to thank the British Society for Proteome Research for the award. Being a first year PhD student at the University of Liverpool, it has been an amazing opportunity to attend the BSPR-EuPA conference in Newcastle and present my first poster. I was really happy to meet many people with different proteomics interests, introducing me to the wider research world of proteomics. I also got to meet other first year PhD students and compare experiences, some of whom were also attending their first conference which was nice to try and figure things out together.
+
+The talks were diverse and very interesting, and I especially enjoyed the Post-Translational Modifications session with Tiziana Bonaldi’s talk on the role of protein methyltransferases in cancer plasticity and resistance. This session and talk related to my research and gave me new insights into where my PhD could take me. Attending the Thermo Fischer Scientific post-ASMS workshop also introduced me to new instruments and how they compare to the ones I am using now.
+
+Exploring Newcastle was a highlight and an insight into living there for when I will be visiting my secondary supervisor’s lab. Therefore this funding is a great help with other parts of my PhD, as well as allowing me to attend my first conference and present my data so far to researchers in proteomics.
+
+Thank you to the organisers of the conference and I hope to also attend next year. Again, I am grateful to the BSPR for awarding me this bursary.
+
