@@ -24,15 +24,15 @@ comments: true
 
 ## Elected members
 
-|Elected Member | Elected Member |
-|-------|--------|
+| Elected Member | Elected Member |
+|--------|--------|
 | **James Waddington** | **Harry Whitwell** |
-|Agilent Technologies <br>Cheadle Royal Business Park <br>Cheadle <br>Greater Manchester<br> United Kingdon | Proteomics Platform Lead<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom |
+|Agilent Technologies <br>Cheadle Royal Business Park <br>Cheadle <br>Greater Manchester <br>United Kingdon |Proteomics Platform Lead <br>National Phenome Centre <br>Faculty of Medicine <br> Imperial College London <br>London, United Kingdom |
 
-|Elected Member | Elected Member|
-|-------|--------|
-| **Sadr ul Shaheed**| **Roz Jenkins**|
-|University of Oxford <br>Nuffield department of Surgical Sciences<br> Oxford Blood Donor Centre, John Radcliffe Hospital <br> Oxford <br>OX3 9BQ<br> United Kingdom|       University of Liverpool<br>Centre for Drug Safety Science<br>Department of Pharmacology and Therapeutics<br>Institute of Systems, Molecular and Integrative Biology<br>The Sherrington Building, Ashton Street<br>Liverpool L69 3GE<br>United Kingdom|
+| Elected Member | Elected Member|
+|--------|--------|
+| **Sadr ul Shaheed** | **Roz Jenkins** |
+|University of Oxford <br>Nuffield department of Surgical Sciences <br>Oxford Blood Donor Centre, John Radcliffe Hospital <br>Oxford, United Kingdom |University of Liverpool <br>Centre for Drug Safety Science <br>Department of Pharmacology and Therapeutics <br>Institute of Systems, Molecular and Integrative Biology <br>The Sherrington Building, Ashton Street <br>Liverpool, United Kingdom |
 
 |Elected Member | Elected Member |
 |-------|--------|
