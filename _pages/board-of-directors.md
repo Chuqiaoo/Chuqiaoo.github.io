@@ -37,7 +37,7 @@ comments: true
 |Elected Member | Elected Member |
 |-------|--------|
 | **Sara Zanivan**| **Karin Barnouin**|
-|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
+|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom | UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
 
 |Elected Member | Elected Member |
 |-------|--------|
