@@ -27,7 +27,7 @@ comments: true
 |Elected Member | Elected Member |
 |-------|--------|
 | **James Waddington** | **Harry Whitwell** |
-|Atturos Ltd. <br>c/o Conway Institute <br>University College Dublin <br>Belfield, Dublin<br> Ireland | Proteomics Platform Lead<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom |
+|Agilent Technologies <br>Cheadle Royal Business Park <br>Cheadle <br>Greater Manchester<br> United Kingdon | Proteomics Platform Lead<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom |
 
 |Elected Member | Elected Member|
 |-------|--------|
@@ -44,10 +44,10 @@ comments: true
 | **Gina Eagle**| **Roman Fischer**|
 |SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Oxford <br>Nuffield Department of Medicine<br> Target Discovery Institute <br> Roosevelt Drive <br>Oxford, OX3 9BQ<br> United Kingdom|
 
-|Elected Member ||
+|Elected Member | Elected Member|
 |-------|--------|
-| **Sarah Hart**| |
-|Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom||
+| **Sarah Hart**| **Edward Emmott** |
+|Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom| University of Liverpool <br>Centre for Proteome Research <br> Dept. Biochemistry & Systems Biology <br> Liverpool, United Kingdom|
 
 ## Management Committee (MC)
 
@@ -70,10 +70,11 @@ comments: true
 |-------|--------|
 | **Kareena Adair**| **Matthias Trost**|
 |University of Liverpool<br>Centre for Proteome Research<br>Institute of Systems, Molecular and Integrative Biology <br> Crown Street, Liverpool <br>L693GE<br> United Kingdom|Newcastle University<br> Faculty of Medical Sciences <br>Framlington Place<br> Newcastle-upon-Tyne <br>NE2 4HH<br> United Kingdom|
-|MC Member ||
-|-------||
-| **Charlotte Hutchins**| |
-|University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom ||
+
+|MC Member | MC Member |
+|-------|--------|
+| **Charlotte Hutchins**| **Alejandro J. Brenes**|
+|University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom | Quantitative Proteomics & <br>Cell Signalling & Immunology<br> University of Dundee <br> United Kingdom|
 
 
 
