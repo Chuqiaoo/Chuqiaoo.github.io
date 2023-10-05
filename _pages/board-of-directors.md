@@ -37,7 +37,7 @@ comments: true
 |Elected Member | Elected Member |
 |-------|--------|
 | **Sara Zanivan** | **Karin Barnouin** |
-|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom |MSD <br>120 Moorgate <br>London <br>EC2M 6UR <br>United Kingdom|
+|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom |Merck Sharpe Dohme (MSD) <br>120 Moorgate <br>London <br>EC2M 6UR <br>United Kingdom|
 
 |Elected Member | Elected Member |
 |-------|--------|
