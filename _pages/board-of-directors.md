@@ -27,7 +27,7 @@ comments: true
 | Elected Member | Elected Member |
 |--------|--------|
 | **James Waddington** | **Harry Whitwell** |
-|Agilent Technologies <br>Cheadle Royal Business Park <br>Cheadle <br>Greater Manchester <br>United Kingdon |Proteomics Platform Lead <br>National Phenome Centre <br>Faculty of Medicine <br> Imperial College London <br>London, United Kingdom |
+|Agilent Technologies <br>Cheadle Royal Business Park <br>Cheadle <br>Greater Manchester <br>United Kingdon |Division of Systems Medicine<br>Department of Metabolism, Digestion and Reproduction<br>Faculty of Medicine<br>Imperial College London<br>London, United Kingdom|
 
 | Elected Member | Elected Member|
 |--------|--------|
@@ -47,7 +47,7 @@ comments: true
 |Elected Member | Elected Member |
 |-------|--------|
 | **Sarah Hart**| **Edward Emmott** |
-|Keele University School of Medicine <br>Keele, Staffs <br>ST5 5BG <br>United Kingdom| University of Liverpool <br>Centre for Proteome Research <br> Dept. Biochemistry & Systems Biology <br> Liverpool, United Kingdom|
+|University of Liverpool School of Medicine<br>Cedar House<br>Ashton St<br>Liverpool<br>L69 3GE| University of Liverpool <br>Centre for Proteome Research <br> Dept. Biochemistry & Systems Biology <br> Liverpool, United Kingdom|
 
 ## Management Committee (MC)
 
