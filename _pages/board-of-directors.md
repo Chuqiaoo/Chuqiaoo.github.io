@@ -41,13 +41,13 @@ comments: true
 
 |Elected Member | Elected Member |
 |-------|--------|
-| **Gina Eagle**| **Roman Fischer**|
-|SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Oxford <br>Nuffield Department of Medicine<br> Target Discovery Institute <br> Roosevelt Drive <br>Oxford, OX3 9BQ<br> United Kingdom|
+| **Gina Eagle**| **Edward Emmott**|
+|SCIEX UK Centre of Innovation <br>Suite 21F18, 21 Mereside, Alderley Park <br>Macclesfield, Cheshire <br>SK10 4TG <br>United Kingdom|University of Liverpool <br>Centre for Proteome Research <br> Dept. Biochemistry & Systems Biology <br> Liverpool, United Kingdom|
 
-|Elected Member | Elected Member |
-|-------|--------|
-| **Sarah Hart**| **Edward Emmott** |
-|University of Liverpool School of Medicine<br>Cedar House<br>Ashton St<br>Liverpool<br>L69 3GE| University of Liverpool <br>Centre for Proteome Research <br> Dept. Biochemistry & Systems Biology <br> Liverpool, United Kingdom|
+|Elected Member |
+|-------|
+| **Sarah Hart**| 
+|University of Liverpool School of Medicine<br>Cedar House<br>Ashton St<br>Liverpool<br>L69 3GE|
 
 ## Management Committee (MC)
 
@@ -76,5 +76,9 @@ comments: true
 | **Charlotte Hutchins**| **Alejandro J. Brenes**|
 |University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom | Quantitative Proteomics & <br>Cell Signalling & Immunology<br> University of Dundee <br> United Kingdom|
 
+|MC Member |
+|-------|
+| **Roman Fischer**|
+|University of Oxford <br>Nuffield Department of Medicine<br> Target Discovery Institute <br> Roosevelt Drive <br>Oxford, OX3 9BQ<br> United Kingdom| 
 
 
