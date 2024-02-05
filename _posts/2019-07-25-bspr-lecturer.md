@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "BSPR Lecturer"
+title:  "2020 BSPR Lecturer"
 date:   2019-07-25
 categories: News
 sidebar:
