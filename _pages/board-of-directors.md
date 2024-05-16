@@ -74,7 +74,7 @@ comments: true
 |MC Member | MC Member |
 |-------|--------|
 | **Charlotte Hutchins**| **Alejandro J. Brenes**|
-|University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom | Quantitative Proteomics & <br>Cell Signalling & Immunology<br> University of Dundee <br> United Kingdom|
+|University of Cambridge <br>Cambridge Centre for Proteomics <br>Cambridge Systems Biology Centre<br> Department of Biochemistry, Tennis Court Road <br> Cambridge <br>CB2 1QT <br>United Kingdom | University of Edinburgh, Institute for Regeneration and Repair <br> Centre for Inflammation Research, 4-5 Little France Dr <br> Edinburgh, EH16 4UU <br> United Kingdom|
 
 |MC Member |
 |-------|
