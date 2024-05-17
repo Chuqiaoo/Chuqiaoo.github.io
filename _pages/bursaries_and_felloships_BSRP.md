@@ -19,6 +19,7 @@ In honour of Prof John Timms, the John Timms Mentoring Award recognises the effo
 Please see the list of awards available for 2023 below:
 
 **MJ Dunn Fellowship**
+Please submit applications for the BSPR/BMSS Supermeeting 2024 by midnight on the 1st July 2024.
 MJ Dunn Fellowship Award is awarded to a post-doctoral scientist who is within 6 years of completing their PhD. The award may be put towards registration, accommodation and travel expenses for the BSPR-EUPA 2023 conference. To apply, please send a brief CV together with a statement saying why you wish to attend the meeting, including an abstract of the work that you plan to present to Dr Karin Barnouin (karin.barnouin@msd.com), Dr Sarah Hart (S.R.Hart@liverpool.ac.uk) and Dr Harry Whitwell (h.whitwell@imperial.ac.uk) no later than the abstract submission deadline. Applicants must be paid-up members of the BSPR. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
 
 **Student and Support Staff Conference Bursaries**
