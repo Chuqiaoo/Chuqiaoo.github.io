@@ -12,6 +12,8 @@ sidebar:
 
 <!-- To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (karin.barnouin@ucb.com). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages. -->
 
+**ALL 2024 AWARDS, EXCEPT FOR THE John Timms Mentoring Award HAVE BEEN AWARDED. DATES FOR 2025 AWARDS WILL BE POSTED AFTER THE BSPR/BMSS SUPERMEETING**
+
 The BSPR provides several bursaries and fellowships awarded each year to BSPR members that are either students (MSc and PhD), post-docs, or technical staff to attend proteomics-related conferences, workshops, or local seminar series’. Only one bursary of each type will be awarded per person each calendar year.
 
 In honour of Prof John Timms, the John Timms Mentoring Award recognises the effort, time, and commitment to mentoring proteomics researchers with a medal and £1000 award.
